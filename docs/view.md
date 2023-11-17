@@ -1,3 +1,7 @@
+layout: default
+title: View
+nav_order: 2
+
 # View
 
 ---
