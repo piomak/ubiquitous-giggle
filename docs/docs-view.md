@@ -1,3 +1,9 @@
+---
+layout: default
+title: DocsView
+nav_order: 2
+---
+
 # View
 
 ---

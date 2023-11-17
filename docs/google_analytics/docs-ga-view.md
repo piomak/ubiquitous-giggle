@@ -1,6 +1,9 @@
+---
 layout: default
-title: View
-nav_order: 2
+title: DocsGAView
+nav_order: 6
+---
+
 
 # View
 
