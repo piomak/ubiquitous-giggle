@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: index2
 nav_order: 1
 ---
 
