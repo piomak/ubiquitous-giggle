@@ -1,0 +1,51 @@
+# *GOOGLE_ANALYTICS_BQ.SAAS_DASHBOARD_VIEWS*
+
+## INTRODUCING NOTE
+
+This table stores modelled and aggregated data about the usage of saas dashboard by clinic agenda managers.
+
+### TABLE LOGIC
+
+This table aggregates data from `spectrum.ga4saas_dashboard_users` table.
+Table aggregates all interactions related to the dashboard performed by admins.
+
+### SOURCE TABLES
+
+spectrum.ga4saas_dashboard_users`
+
+
+### CONTACT PERSON
+
+Technical questions, please contact *Mikołaj Buzała* or other Analytics Engineers (Slack: *@meek*, *@analytics engineering*)
+Feature's business context, contact *Michał Gabriel*.
+
+## COLUMNS DESCRIPTION
+
+* **country_code**
+
+* **date**
+  - Date of the interaction.
+
+## USER IDENTIFICATION
+
+* **saas_user_id**
+
+ - SaaS ID of the user who interacted with video-library.
+
+* **clinic_id_saas**
+
+ - Clinic SaaS ID
+
+* **country_code**
+
+- country code
+
+### Event data
+
+* **event_type**
+
+- `event-date` = date of the event
+- `unified_session_id` = unique id of session
+- `event_timestamp` = timestamp of the event
+- `event_category` = event category - can either be (Unified Navigation - opening the dashboard) or (Dashboard - actions related to the dashboard)
+- `event_action` = name of the tag in SaaS
