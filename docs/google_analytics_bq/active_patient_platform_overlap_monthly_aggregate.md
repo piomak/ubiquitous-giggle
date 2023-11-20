@@ -1,3 +1,10 @@
+---
+layout: default
+title: Active Patient Platform Overlap Monthly Aggregate
+parent: Google Analytics BQ
+nav_order: 1
+---
+
 # (table deprecated)
 active_patient_platform_overlap_monthly_aggregate
 

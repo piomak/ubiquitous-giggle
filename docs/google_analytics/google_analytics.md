@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Google Analytics
-parent: Google Analytics BQ
+nav_order: 2
 ---
 
