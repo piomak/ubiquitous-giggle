@@ -1,3 +1,10 @@
+---
+layout: default
+title: Booking Flow Pages
+parent: Google Analytics
+nav_order: 2
+---
+
 # Table name
 
 ---

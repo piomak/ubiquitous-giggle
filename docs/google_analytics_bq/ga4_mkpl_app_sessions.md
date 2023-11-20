@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 MKPL App Sessions
+parent: Google Analytics BQ
+---
+
 GOOGLE_ANALYTICS_BQ.GA4_MKPL_APP_SESSIONS
 
 ## INTRODUCING NOTE

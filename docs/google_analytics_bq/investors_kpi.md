@@ -1,3 +1,9 @@
+---
+layout: default
+title: Investors KPI
+parent: Google Analytics BQ
+---
+
 # google_analytics_bq.investors_kpi
 
 ---

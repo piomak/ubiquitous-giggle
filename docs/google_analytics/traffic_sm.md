@@ -1,3 +1,10 @@
+---
+layout: default
+title: Traffic SM
+parent: Google Analytics
+nav_order: 14
+---
+
 # traffic_sm
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 App Installs
+parent: Google Analytics BQ
+---
+
 # (table deprecated)
 GOOGLE_ANALYTICS_BQ.GA4_APP_INSTALLS
 

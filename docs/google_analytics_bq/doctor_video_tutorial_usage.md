@@ -1,3 +1,9 @@
+---
+layout: default
+title: Doctor Video Tutorial Usage
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS_BQ.DOCTOR_VIDEO_TUTORIAL_USAGE*
 
 ## INTRODUCING NOTE

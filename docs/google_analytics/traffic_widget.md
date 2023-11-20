@@ -1,3 +1,10 @@
+---
+layout: default
+title: Traffic Widget
+parent: Google Analytics
+nav_order: 16
+---
+
 # traffic_widget
 
 ---

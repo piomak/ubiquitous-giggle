@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sessions with search CVR
+parent: Google Analytics
+nav_order: 12
+---
+
 # Sessions with search CVR
 
 ---

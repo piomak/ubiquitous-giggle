@@ -1,3 +1,9 @@
+---
+layout: default
+title: Google Search Console Raw Data General
+parent: Google Analytics BQ
+---
+
 # *SPECTRUM.GOOGLE_SEARCH_CONSOLE_RAW_DATA_GENERAL*
 ## INTRODUCING NOTE
 

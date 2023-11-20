@@ -1,3 +1,10 @@
+---
+layout: default
+title: Doctor Profile Views
+parent: Google Analytics
+nav_order: 4
+---
+
 # doctor_profile_views
 
 ---

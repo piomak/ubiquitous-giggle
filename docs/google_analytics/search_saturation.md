@@ -1,3 +1,10 @@
+---
+layout: default
+title: Search Saturation
+parent: Google Analytics
+nav_order: 8
+---
+
 # Search Saturation
 
 ---

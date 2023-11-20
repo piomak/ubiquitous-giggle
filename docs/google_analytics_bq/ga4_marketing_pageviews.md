@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 Marketing Pageviews
+parent: Google Analytics BQ
+---
+
 # *google_analytics_bq.ga4_marketing_pageviews*
 
 ## INTRODUCING NOTE

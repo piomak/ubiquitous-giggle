@@ -1,3 +1,9 @@
+---
+layout: default
+title: Profile CVR
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS_BQ.PROFILE_CVR*
 
 ## INTRODUCING NOTE

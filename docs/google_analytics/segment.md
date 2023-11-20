@@ -1,3 +1,10 @@
+---
+layout: default
+title: Segment
+parent: Google Analytics
+nav_order: 10
+---
+
 # Segment
 
 ---

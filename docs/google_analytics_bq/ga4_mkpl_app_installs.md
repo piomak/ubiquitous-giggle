@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 MKPL App Installs
+parent: Google Analytics BQ
+---
+
 GOOGLE_ANALYTICS_BQ.GA4_MKPL_APP_INSTALLS
 
 ## INTRODUCING NOTE

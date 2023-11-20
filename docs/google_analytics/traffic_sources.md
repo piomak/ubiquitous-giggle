@@ -1,3 +1,10 @@
+---
+layout: default
+title: Traffic Sources
+parent: Google Analytics
+nav_order: 15
+---
+
 # traffic_sources
 
 ---

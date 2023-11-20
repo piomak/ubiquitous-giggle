@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bookings X
+parent: Google Analytics
+nav_order: 3
+---
+
 # Google Analytics Bookings Tables
 
 ---

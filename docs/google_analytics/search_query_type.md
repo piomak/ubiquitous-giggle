@@ -1,3 +1,10 @@
+---
+layout: default
+title: Search Query Type
+parent: Google Analytics
+nav_order: 7
+---
+
 # Search Query Type
 
 ---

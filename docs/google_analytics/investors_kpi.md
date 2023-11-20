@@ -1,3 +1,10 @@
+---
+layout: default
+title: Investors KPI
+parent: Google Analytics
+nav_order: 6
+---
+
 # investors_kpi
 
 **Please note that there is a new version of investors_kpi table, you can find it at `google_analytics_bq.investors_kpi`.**

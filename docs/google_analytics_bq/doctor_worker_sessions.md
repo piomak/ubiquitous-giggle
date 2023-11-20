@@ -1,3 +1,9 @@
+---
+layout: default
+title: Doctor Worker Session
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS_BQ.PROFILE VIEWS*
 
 ## INTRODUCING NOTE

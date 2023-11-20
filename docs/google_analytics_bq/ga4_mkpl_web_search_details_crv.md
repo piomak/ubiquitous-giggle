@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 MKPL web search details crv
+parent: Google Analytics BQ
+---
+
 # ga4_mkpl_web_search_details_crv
 
 ---

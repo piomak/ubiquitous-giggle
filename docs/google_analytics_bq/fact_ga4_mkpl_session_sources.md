@@ -1,3 +1,9 @@
+---
+layout: default
+title: GA4 MKPL Session Sources
+parent: Google Analytics BQ
+---
+
 # spectrum.fact_ga4_mkpl_session_sources
 
 ---

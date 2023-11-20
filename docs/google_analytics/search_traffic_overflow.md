@@ -1,3 +1,10 @@
+---
+layout: default
+title: Search Traffic Overview
+parent: Google Analytics
+nav_order: 9
+---
+
 # Search Traffic Overflow
 
 ---

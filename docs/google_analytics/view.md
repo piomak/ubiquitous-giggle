@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DocsGAView
-nav_order: 6
+title: View
+parent: Google Analytics
 ---
 
 

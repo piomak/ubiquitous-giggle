@@ -1,3 +1,9 @@
+---
+layout: default
+title: MKPL Acquisition traffic overview monthly
+parent: Google Analytics BQ
+---
+
 # *mkpl_acquisition_traffic_overview_monthly*
 
 ## INTRODUCING NOTE

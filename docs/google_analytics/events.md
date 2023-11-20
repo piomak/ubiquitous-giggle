@@ -1,3 +1,10 @@
+---
+layout: default
+title: Events
+parent: Google Analytics
+nav_order: 5
+---
+
 # Events
 
 ---

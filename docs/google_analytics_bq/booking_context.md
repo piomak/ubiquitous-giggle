@@ -1,3 +1,9 @@
+---
+layout: default
+title: Booking Context
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS_BQ.BOOKING_CONTEXT*
 
 ## INTRODUCING NOTE

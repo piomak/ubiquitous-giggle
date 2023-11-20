@@ -1,3 +1,9 @@
+---
+layout: default
+title: MKPL Inventory
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS.MKPL_INVENTORY*
 
 ## INTRODUCING NOTE

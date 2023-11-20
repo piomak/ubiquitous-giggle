@@ -1,3 +1,9 @@
+---
+layout: default
+title: Traffic Overview
+parent: Google Analytics BQ
+---
+
 # *GOOGLE_ANALYTICS_BQ.TRAFFIC_OVERVIEW*
 
 ## INTRODUCING NOTE
